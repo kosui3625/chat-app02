@@ -12,7 +12,7 @@ module ChatApp
     config.load_defaults 7.0 
     config.i18n.default_locale = :ja
     config.time_zone = 'Tokyo' # engines and railties goes here.
-    #
+    config.active_storage.variant_processor = :mini_magick
     # These settings can be overridden in specific environments using the files
     # in config/environments, which are processed later.
     #
