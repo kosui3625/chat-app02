@@ -118,21 +118,21 @@
   height: 90px;
   padding: 20px 40px;
   display: flex;
-}
-
+  }
+  
 .form-input {
   background-color: white;
   display: flex;
   width: 100%;
 }
-
+  
 .form-message {
   border: none;
   height: 50px;
   width: 100%;
   padding-left: 10px;
 }
-
+  
 .form-submit {
   background-color: #38AEF0;
   border: none;
